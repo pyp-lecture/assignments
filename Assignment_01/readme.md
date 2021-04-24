@@ -12,7 +12,7 @@ Testen Sie gerne noch Addition, Subtraktion oder Division.
 
 
 ## Aufgabe 2: Das erste Programm
-Öffnen sie das Terminal in Visual Studio Code und führen Sie mit der integrierten Kommandozeile (Terminal) Blatt1.py am Ablageort aus aus.<br>
+Öffnen sie das Terminal in Visual Studio Code und führen Sie mit der integrierten Kommandozeile (Terminal) [Blatt1.py](Blatt1.py) am Ablageort aus.<br>
 
 Sie werden zur Eingabe einer geheimen Botschaft aufgefordert.
 ```
