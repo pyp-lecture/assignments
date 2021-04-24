@@ -1,6 +1,6 @@
 # Blatt 1: Hello World and Hello Course!
 
-*Fällig: 28.04.2021*
+*Fällig: 04.05.2021*
 
 ## Aufgabe 1: interaktiver Modus
 Installieren Sie Visual Studio Code und navigieren Sie zum Terminal. <br>
