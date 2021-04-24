@@ -44,15 +44,15 @@ Sie können die Aufgaben gerne als Gruppe von bis zu 4 Studierenden bearbeiten. 
 [14]: https://smits-net.de/files/pyp/html/03_numpy/02_linear_algebra.html
 [15]: https://smits-net.de/files/pyp/html/03_numpy/03_matplotlib.html
 [20]: https://de.wikipedia.org/wiki/Pfingsten
-[16]: blatt1/readme.md
-[17]: blatt2/readme.md
-[18]: blatt3/readme.md
-[19]: blatt4/readme.md
-[20]: blatt5/readme.md
-[21]: blatt6/readme.md
-[22]: blatt7/readme.md
-[23]: blatt8/readme.md
-[24]: blatt9/readme.md
+[16]: Assignment_01/readme.md
+[17]: Assignment_02/readme.md
+[18]: Assignment_03/readme.md
+[19]: Assignment_04/readme.md
+[20]: Assignment_05/readme.md
+[21]: Assignment_06/readme.md
+[22]: Assignment_07/readme.md
+[23]: Assignment_08/readme.md
+[24]: Assignment_09/readme.md
 <hr>
 
 Weitere Informationen zu Bibliotheken und deren Installation finden Sie [hier](Libraries.md).
