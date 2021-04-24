@@ -1,4 +1,4 @@
-# python-lecture
+# Vorlesung Python für Maschinenbauer(innen)
 
 ## :computer: Installation Visual Studio Code und Python 3:
  Eine Anleitung zur Installation von Visual Studio Code finden Sie hier: https://code.visualstudio.com/docs/python/python-tutorial
