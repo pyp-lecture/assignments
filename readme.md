@@ -55,4 +55,4 @@ Sie können die Aufgaben gerne als Gruppe von bis zu 4 Studierenden bearbeiten. 
 [24]: Assignment_09/readme.md
 <hr>
 
-Weitere Informationen zu Bibliotheken und deren Installation finden Sie [hier](Libraries.md).
+Weitere Informationen zu Bibliotheken und deren Installation finden Sie [hier](libraries.md).
