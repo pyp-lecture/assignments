@@ -25,7 +25,7 @@ Sie können die Aufgaben gerne als Gruppe von bis zu 4 Studierenden bearbeiten. 
 | KW 24, **16.06.2021** | [Rekursion][10], [Ausnahmen][11], [Tests][12] | Aufgabe 7, Abgabe:    |
 | KW 25, **23.06.2021** | [NumPy][13], [Lin. Algebra][14]               | Aufgabe 8, Abgabe:    |
 | KW 26, **30.06.2021** | [MatPlotLib][15]                              | Aufgabe 9, Abgabe:    |
-| KW 27, **07.07.2021** | Skript, Fragestunde                           | Lernliste             |
+| KW 27, **07.07.2021** | Fragestunde                                      | Lernliste             |
 | KW 28, **14.07.2021** | Klausur                                       | Viel Erfolg!! :star:  |
 
 [1]: https://smits-net.de/files/pyp/html/01_basics/01_basics.html

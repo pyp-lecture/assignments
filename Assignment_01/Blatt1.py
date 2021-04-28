@@ -21,6 +21,4 @@ def decode_message():
 if __name__ == "__main__":
     hello_world()
     hello_user()
-    #party = "Well done! This is your prize: https://www.youtube.com/watch?v=dQw4w9WgXcQ "
-    #print(party.encode('base64','strict'))
-    decode_message()
+    decode_message()
