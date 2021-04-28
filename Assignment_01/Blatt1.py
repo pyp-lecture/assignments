@@ -1,5 +1,4 @@
-
-#!/usr/bin/python3
+#!/usr/bin/env python
 
 import sys
 
@@ -21,4 +20,4 @@ def decode_message():
 if __name__ == "__main__":
     hello_world()
     hello_user()
-    decode_message()
+    decode_message()
