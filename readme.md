@@ -16,7 +16,7 @@ Sie können die Aufgaben gerne als Gruppe von bis zu 4 Studierenden bearbeiten. 
 | Sitzung (KW, Datum) | Inhalt | Übungsaufgabe|
 | -------- | -------- | -------- |
 | KW 17, **28.04.2021** | [Einführung][1]                               | [Aufgabe 1][16], [Lösung][25] |
-| KW 18, **05.05.2021** | [Kontrollstrukturen][2]                       | [Aufgabe 2][17], Abgabe 11.05.2021, 23:59 Uhr |
+| KW 18, **05.05.2021** | [Kontrollstrukturen][2]                       | [Aufgabe 2][17], [Lösung][26] |
 | KW 19, **12.05.2021** | [Funktionen][3]                               | [Aufgabe 3][18], Abgabe: 18.05.2021, 23:59 Uhr |
 | KW 20, **19.05.2021** | [Listen und Tupel][4]                         | Aufgabe 4, Abgabe:    |
 | KW 21, **26.05.2021** | [Pfingstferien][20]                           | Pfingstferien         |
@@ -54,6 +54,15 @@ Sie können die Aufgaben gerne als Gruppe von bis zu 4 Studierenden bearbeiten. 
 [23]: Assignment_08/readme.md
 [24]: Assignment_09/readme.md
 [25]: Assignment_01/solution
+[26]: Assignment_02/solution
+[27]: Assignment_03/solution
+[28]: Assignment_04/solution
+[29]: Assignment_05/solution
+[30]: Assignment_06/solution
+[31]: Assignment_07/solution
+[32]: Assignment_08/solution
+[33]: Assignment_09/solution
+
 <hr>
 
 Weitere Informationen zu Bibliotheken und deren Installation finden Sie [hier](libraries.md).
