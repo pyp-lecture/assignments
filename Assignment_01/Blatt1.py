@@ -21,14 +21,9 @@ def decode_message():
     correct_message = "aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1kUXc0dzlXZ1hjUQ=="
     if user_message == correct_message:
         print("Finally we got it! Enjoy some fun music :)" , base64.b64decode(user_message).decode('utf-8')  )
-      
+
 
 if __name__ == "__main__":
     hello_world()
     hello_user()
     decode_message()
-    
-   
-
-
-
