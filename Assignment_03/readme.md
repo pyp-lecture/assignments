@@ -1,4 +1,4 @@
-# Blatt 3: Listen und Tuple!
+# Blatt 3: Schöne Funktionen für Listen, Tuple!
 
 *Fällig: 18.05.2021*
 
