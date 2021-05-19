@@ -17,8 +17,8 @@ Sie können die Aufgaben gerne als Gruppe von bis zu 4 Studierenden bearbeiten. 
 | -------- | -------- | -------- |
 | KW 17, **28.04.2021** | [Einführung][1]                               | [Aufgabe 1][16], [Lösung][25] |
 | KW 18, **05.05.2021** | [Kontrollstrukturen][2]                       | [Aufgabe 2][17], [Lösung][26] |
-| KW 19, **12.05.2021** | [Funktionen][3]                               | [Aufgabe 3][18], Abgabe: 18.05.2021, 23:59 Uhr |
-| KW 20, **19.05.2021** | [Listen und Tupel][4]                         | [Aufgabe 4][19], Abgabe: KW 22, **01.06.2021**   |
+| KW 19, **12.05.2021** | [Funktionen][3]                               | [Aufgabe 3][18], [Lösung][27] |
+| KW 20, **19.05.2021** | [Listen und Tupel][4]                         | [Aufgabe 4][19], Abgabe: 01.06.2021, 23:59 Uhr |
 | KW 21, **26.05.2021** | [Pfingstferien][20]                           | Pfingstferien         |
 | KW 22, **02.06.2021** | [Dictionaries und Sets][5], [Strings][6]      | Aufgabe 5, Abgabe:    |
 | KW 23, **09.06.2021** | [Module][7], [IO][8], [Klassen][9]            | Aufgabe 6, Abgabe:    |
