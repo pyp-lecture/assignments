@@ -58,7 +58,19 @@ def half_vokale(dic):
             anz2=anz2+vokale(dic[i])
 
     return anz, anz2
+""" 
+>>> i = "Katzenkind"
+>>> counts = {i:0 for i in 'aeiouAEIOU'}
+>>> print(counts)
+{'a': 0, 'e': 0, 'i': 0, 'o': 0, 'u': 0, 'A': 0, 'E': 0, 'I': 0, 'O': 0, 'U': 0}
+>>> for char in i:
+...     if char in counts:
+...             counts[char] += 1
+... 
+>>> print(sum(counts.values()))
+3
 
+Entschuldigung für den Sadismus! """ 
 
 
 # Aufgabe 3:
@@ -67,7 +79,6 @@ import math
 # 1.
 def stringhalbierer(wort):
     a=math.ceil(len(wort)/2)
-
     return print(wort[:a],wort[a:])
 
 
@@ -103,7 +114,14 @@ def verbinden(d1, d2):
 def aus_2_mach_1(d1, d2):
     for key in dict2.keys():
         dict1[key] = dict2[key]
+    return dict1
+
+# das ginge auch:
+"""
+    dict1.update(dict2)
     print(dict1)
+
+    """
     
 
 # Aufgabe 5:
@@ -125,6 +143,11 @@ def zweiterTeil():
         #print(payDict[n]['salary'])
         summe += int(payDict[n]['salary'])
     return (summe/len(payDict))
+
+def raisePay(arbeiter, plus):
+    for key in payDict.keys():
+        if payDict[key]['name'] == arbeiter:
+            payDict[key]['salary'] = payDict[key]['salary'] + plus
 
 # Aufgabe 6:
 
@@ -162,6 +185,12 @@ if __name__ == "__main__":
 
 # Aufgabe 2:
     print("Aufgabe 2:")
+    """ Satz zu dict:
+        Satz in einer Variable speichern.
+        satzdict = dict(enumerate(Satz.replace(',', '').replace('.', '').split(' ')))
+
+    """
+
     dic={1:"Gallia", 2:"est", 3:"omnis", 4:"divisa", 5:"in", 6:"partes", 7:"tres", 8:"quarum", 9:"unam", 10:"incolunt", 11:"Belgae", 12:"aliam", 13:"Aquitani", 14:"tertiam", 15:"qui", 16:"ipsorum", 17:"lingua", 18:"Celtae", 19:"nostra", 20:"Galli", 21:"appellantur"}
     anzahl_zeichen = count_chars(dic)
     print("Gesamtanzahl der Buchstaben:",anzahl_zeichen)
@@ -184,15 +213,12 @@ if __name__ == "__main__":
     dict1 = {'Ten': 10, 'Twenty': 20, 'Thirty': 30}
     dict2 = {'Thirty': 30, 'Fourty': 40, 'Fifty': 50}
     verbindung = verbinden(dict1, dict2)
-    print(verbindung, '\n')
-    verbindung2 = aus_2_mach_1(dict1, dict2)
-    print(verbindung2, "\n")
-    # das ginge auch:
-    """
-    dict1.update(dict2)
-    print(dict1)
+    print(verbindung)
 
-    """
+    verbindung2 = aus_2_mach_1(dict1, dict2)
+    print(verbindung2)
+    
+    
     
 # Aufgabe 5:
     print("Aufgabe 5:")

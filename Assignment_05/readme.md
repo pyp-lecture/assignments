@@ -20,6 +20,6 @@ Ihr Nachname
 Mein Lieblingslied ist:
 Ich esse gerne:
 ```
-Schreiben Sie nun ein Programm ``, welches diese Datei einliest. 
+Schreiben Sie nun ein Programm `write_file`, welches diese Datei einliest. 
 1. Fügen Sie eine Funktion hinzu, die eine weitere Zeile ergänzt. Nutzen Sie hierfür den Input die Kommandozeile (Idee: Die Funktion könnte Sie nach Ihren Lieblingsfilm fragen).
-2. Schreiben Sie eine weitere Funktion die den neuen Inhalt in die `.txt`-Datei schreibt. 
+2. Schreiben Sie eine weitere Funktion die neue Zeile `Ich spiele gerne: ## Lieblingsspiel ##` in die `.txt`-Datei schreibt. 
