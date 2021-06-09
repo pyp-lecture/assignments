@@ -20,8 +20,8 @@ Sie können die Aufgaben gerne als Gruppe von bis zu 4 Studierenden bearbeiten. 
 | KW 19, **12.05.2021** | [Funktionen][3]                               | [Aufgabe 3][18], [Lösung][28]|
 | KW 20, **19.05.2021** | [Listen und Tupel][4]                         | [Aufgabe 4][19], [Lösung][29]   |
 | KW 21, **26.05.2021** | [Pfingstferien][20]                           | Pfingstferien         |
-| KW 22, **02.06.2021** | [Dictionaries und Sets][5], [Strings][6]      | [Aufgabe 5][21], Abgabe: 08.06.2021, 23:59 Uhr   |
-| KW 23, **09.06.2021** | [Module][7], [IO][8], [Klassen][9]            | Aufgabe 6, Abgabe:    |
+| KW 22, **02.06.2021** | [Dictionaries und Sets][5], [Strings][6]      | [Aufgabe 5][21], [Lösung][30]   |
+| KW 23, **09.06.2021** | [Module][7], [IO][8], [Klassen][9]            | [Aufgabe 6][22], Abgabe: 15.06.2021, 23:59 Uhr   |
 | KW 24, **16.06.2021** | [Rekursion][10], [Ausnahmen][11], [Tests][12] | Aufgabe 7, Abgabe:    |
 | KW 25, **23.06.2021** | [NumPy][13], [Lin. Algebra][14]               | Aufgabe 8, Abgabe:    |
 | KW 26, **30.06.2021** | [MatPlotLib][15]                              | Aufgabe 9, Abgabe:    |
