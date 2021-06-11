@@ -1,26 +1,29 @@
-
-#!/usr/bin/python3
+#!/usr/bin/env python
+ #-*- coding: utf-8 -*-
 
 import sys
+import base64
 
 # Navigieren Sie zum Ablageort der Datei Blatt1. py und fuehren Sie das Programm ueber die Kommandozeile aus.
 
+
+
 def hello_world():
     print("Hello Student!")
-
+    print("This is the secret message - Please copy it to find out your prize. ")
+    print("aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1kUXc0dzlXZ1hjUQ==")
 def hello_user():
-    user_name = raw_input("Please enter your name. \n")
+    user_name = input("Please enter your name. \n")
     print("Hello "+ user_name +"! Welcome to your first worksheet! You did great!")
 
 def decode_message():
-    user_message = raw_input("Please enter the secret Message: \n")
-    correct_message = "V2VsbCBkb25lISBUaGlzIGlzIHlvdXIgcHJpemU6IGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZFF3NHc5V2dYY1Eg"
+    user_message = input("Please enter the secret Message: \n")
+    correct_message = "aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1kUXc0dzlXZ1hjUQ=="
     if user_message == correct_message:
-        print("Decoded String: " + user_message.decode('base64','strict'))
+        print("Finally we got it! Enjoy some fun music :)" , base64.b64decode(user_message).decode('utf-8')  )
+
 
 if __name__ == "__main__":
     hello_world()
     hello_user()
-    #party = "Well done! This is your prize: https://www.youtube.com/watch?v=dQw4w9WgXcQ "
-    #print(party.encode('base64','strict'))
     decode_message()
