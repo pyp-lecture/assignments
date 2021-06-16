@@ -1,15 +1,12 @@
-def fib1(n):
-
+def fib(n):
     if n == 0:
-        return 0
-
+        ergebnis = 0
     elif n == 1:
-        return 1
-
+        ergebnis = 1
     else:
+        ergebnis = fib(n - 1) + fib(n - 2)
 
-        z=fib1(n-1)+fib1(n-2)
-        return z
+    return ergebnis
 
 def fib_iterativ(n):
     ergebnis = 0
@@ -37,10 +34,11 @@ def fib_iterativ(n):
 
 
 if __name__ == "__main__":
-    n=input("Geben Sie ein n ein")
-    m=fib1(int(n))
-    print(m)
+    print("Mega-Fibonacci-Recher (c) TS + TS")
+    n = int(input("Gibt mir ein n: "))
 
-    print("Iterative Variante - schneller aber komplizierter")
-    m=fib_iterativ(int(n))
-    print(m)
+    ergebnis = fib_iterativ(n)
+    print(f"{n}!= {ergebnis}")
+
+    ergebnis = fib(n)
+    print(f"{n}!= {ergebnis}")
