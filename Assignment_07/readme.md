@@ -4,10 +4,10 @@
 
 ## Aufgabe 1: Numpy
 Importieren Sie numpy - Tipp für weniger Schreibkram: `import numpy as np`
-Erstellen Sie ein 4x2 integer Array mit numpy, gefüllt mit zufälligen Werten. 
+Erstellen Sie ein 4x2 integer Array mit numpy, gefüllt mit zufälligen Werten.
 1. Geben Sie mit `print()` die shape des Arrays aus.
 2. Geben Sie die Dimensionen aus.
-3. Geben Sie die länge jedes Elements im Array in Bytes aus.
+3. Geben Sie die Länge jedes Elements im Array in Bytes aus.
 
 ## Aufgabe 2: Lösen Sie das Probleme
 ```
@@ -25,8 +25,8 @@ Multiplizieren Sie die beiden Matrizen.
 ## Aufgabe 4: Nullstellen
 Finden Sie jeweils die Nullstellen für folgende Polynome.
 ```
-a) x2 - 4x + 7
-b) x4 - 11x3 + 9x2 + 11x - 10
+a) x^2 - 4x + 7
+b) x^4 - 11x^3 + 9x^2 + 11x - 10
 ```
 
 ## Aufgabe 5: Ungerade Zahlen ersetzen
