@@ -1,7 +1,7 @@
 def div(nenner, zähler):                                # Aufgabe 2
     try:
         return zähler / nenner
-    except:
+    except ZeroDivisionError:
         print("Der Nenner darf nicht 0 sein.")
 
 

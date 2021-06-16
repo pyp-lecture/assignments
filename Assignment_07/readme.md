@@ -3,7 +3,8 @@
 *Fällig: 22.06.2021*
 
 ## Aufgabe 1: Numpy
-Erstellen Sie ein 4x2 integer Array mit numpy, gefüllt mit zufälligen Werten.
+Importieren Sie numpy - Tipp für weniger Schreibkram: `import numpy as np`
+Erstellen Sie ein 4x2 integer Array mit numpy, gefüllt mit zufälligen Werten. 
 1. Geben Sie mit `print()` die shape des Arrays aus.
 2. Geben Sie die Dimensionen aus.
 3. Geben Sie die länge jedes Elements im Array in Bytes aus.
