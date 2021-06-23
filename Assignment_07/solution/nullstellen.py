@@ -19,20 +19,8 @@ print('Nullstellen von b)')
 for x in b:
     z += 1
     print(f'{z}) {x}')
-#######################
-def Nullstellen():
-    a = np.array([1,-4,7])
-    b = np.array([1,-11,9,11,-10])
 
-    p1 = [1,-4,7]
-    a0 = np.roots(p1)
-    p2 = [1,-11,9,11,-10]
-    b0 = np.roots(p2)
 
-    print(f"Nullstellen a: {a0}")
-    print(f"Nullstellen b: {b0}")
-
-Nullstellen()
 ############################
 # Nullstellensuche ganz geschickt gelöst
 
