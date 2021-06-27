@@ -4,6 +4,8 @@
 
   * [Installation von Python 3 unter Windows](installation/python_win10.md)
   * [Installation von Visual Studio Code unter Windows](installation/vscode_win10.md)
+  * [Installation von Python 3 unter Ubuntu Linux](installation/python_linux.md)
+  * [Installation von Visual Studio Code unter Ubuntu Linux](installation/vscode_linux.md)
 
 Bitte installieren Sie beides vor dem ersten Termin. Sollten dabei Probleme oder Unsicherheiten auftauchen, wenden Sie sich bitte gerne an uns (:inbox_tray: t.sick@hs-mannheim.de).
 

@@ -64,7 +64,7 @@ Wählen Sie __Python__ aus und klicken Sie auf __Install__.
 
 <img src="img/vscode_14.png" width="700">
 
-Warten Sie, bis die Installation durchgelaufen ist und schließen Sie dann den Tab __Extension Python__ durch Klick auf das `X`.
+Warten Sie, bis die Installation durchgelaufen ist und schließen Sie dann den Tab __Extension: Python__ durch Klick auf das `X`.
 
 Schließen Sie danach auch den Tab __Getting Started__.
 
@@ -82,6 +82,8 @@ y = x**2
 plt.plot(x, y)
 plt.show()
 ```
+
+Speichern Sie die Datei an einem beliebigen Ort und geben Sie ihr die Dateiextension `.py`, z.B. `test.py`.
 
 <img src="img/vscode_16.png" width="500">
 
