@@ -117,7 +117,7 @@ Es öffnet sich die Python REPL.
 
 <img src="img/python_27.png" width="600">
 
-Zum Testen tippen Sie jetzt folgendes ein (`>>>` ist nicht Teil Ihrer Eingabe, sonder das Prompt von Python):
+Zum Testen tippen Sie jetzt folgendes ein (`>>>` ist nicht Teil Ihrer Eingabe, sondern das Prompt von Python):
 
 ```console
 >>> import numpy as np

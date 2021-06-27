@@ -39,7 +39,7 @@ $ sudo apt install python3
 $ python -m pip install --upgrade pip
 ```
 
-Falls Sie die Meldung `python: command not found` bekommen oder oben Festgestellt haben, dass Ihr Python unter `python3` aufgerufen werden muss, ersetzen Sie `python` durch `python3`.
+Falls Sie die Meldung `python: command not found` bekommen oder oben festgestellt haben, dass Ihr Python unter `python3` aufgerufen werden muss, ersetzen Sie `python` durch `python3`.
 
 Im nächsten Schritt installieren Sie die Module im Terminal mit:
 
@@ -49,7 +49,7 @@ $ python -m pip install matplotlib numpy
 
 Testen Sie die Installation, indem Sie `python` im Terminal eingeben.
 
-Zum Testen tippen Sie jetzt folgendes ein (`>>>` ist nicht Teil Ihrer Eingabe, sonder das Prompt von Python):
+Zum Testen tippen Sie jetzt folgendes ein (`>>>` ist nicht Teil Ihrer Eingabe, sondern das Prompt von Python):
 
 ```console
 >>> import numpy as np
