@@ -30,11 +30,11 @@ Wenn Sich der Dialog des Installations-Programms öffnet, setzen Sie einen Haken
 
 Bei der Anzeige der optionalen Features, sollten alle Häkchen gesetzt sein:
 
-  * Documentation
-  * pip
-  * tcl/tk and IDLE
-  * py launcher
-  * for all users (requires elevation)
+  * [X] Documentation
+  * [X] pip
+  * [X] tcl/tk and IDLE
+  * [X] py launcher
+  * [X] for all users (requires elevation)
 
 Klicken Sie auf __Next__.
 
