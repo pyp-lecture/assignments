@@ -74,7 +74,7 @@ Jetzt wird angezeigt, dass die Installation erfolgreich war. Schließen Sie das 
 
 ## Installation von PIP und den Bibliotheken
 
-Klicken Sie nun auf das Windows-Logo und navigieren See zu __Windows-System__. Klicken Sie auf das Ordnersymbol und klicken Sie dann mit der __RECHTEN__ Maustaste auf __Eingabeaufforderung__. Es erscheint ein Kontextmenü, in dem Sie `Mehr > Als Administrator ausführen` wählen.
+Klicken Sie nun auf das Windows-Logo und navigieren Sie zu __Windows-System__. Klicken Sie auf das Ordnersymbol und klicken Sie dann mit der __RECHTEN__ Maustaste auf __Eingabeaufforderung__. Es erscheint ein Kontextmenü, in dem Sie `Mehr > Als Administrator ausführen` wählen.
 
 <img src="img/python_22.png" width="500">
 
