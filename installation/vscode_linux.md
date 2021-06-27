@@ -17,15 +17,15 @@ $ sudo snap install code --classic
 
 Starten Sie Visual Studio Code, indem Sie im Terminal `code` eingeben.
 
-<img src="img/vcode_linux_1.png" width="700">
+<img src="img/vcode_linux_1.png" width="500">
 
 Klicken Sie links auf das Symbol mit den vier Quadraten und geben Sie in das Suchfeld `python` ein.
 
-<img src="img/vcode_linux_2.png" width="700">
+<img src="img/vcode_linux_2.png" width="600">
 
 Klicken Sie auf den ersten Treffer und dann auf __Install__.
 
-<img src="img/vcode_linux_3.png" width="700">
+<img src="img/vcode_linux_3.png" width="600">
 
 Wählen Sie __Python__ aus und klicken Sie auf __Install__.
 
@@ -45,16 +45,16 @@ plt.plot(x, y)
 plt.show()
 ```
 
-<img src="img/vcode_linux_4.png" width="700">
+<img src="img/vcode_linux_4.png" width="600">
 
 Speichern Sie die Datei an einem beliebigen Ort und geben Sie ihr die Dateiextension `.py`, z.B. `test.py`.
 
 Klicken Sie auf den __Play Button__ oben rechts und wählen Sie __Run Python File in Terminal__.
 
-<img src="img/vcode_linux_5.png" width="700">
+<img src="img/vcode_linux_5.png" width="600">
 
 Sie sollten jetzt den Plot einer x^2 Funktion sehen.
 
-<img src="img/vcode_linux_6.png" width="700">
+<img src="img/vcode_linux_6.png" width="600">
 
 Sie haben Visual Studio Code erfolgreich installiert.
