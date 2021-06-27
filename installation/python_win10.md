@@ -1,4 +1,4 @@
-# Python 3.0 unter Windows 10 installieren
+# Python 3.9 unter Windows 10 installieren
 
 Diese Anleitung zeigt Ihnen, wie Sie Python 3.9, inklusive `pip` und der Bibliotheken `matplotlib` und `numpy` unter Windows 10 installieren.
 

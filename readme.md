@@ -1,11 +1,9 @@
 # Vorlesung Python für Maschinenbauer(innen)
 
 ## :computer: Installation Visual Studio Code und Python 3:
- Eine Anleitung zur Installation von Visual Studio Code finden Sie hier: https://code.visualstudio.com/docs/python/python-tutorial
-
 
   * [Installation von Python 3 unter Windows](installation/python_win10.md)
-  * Installation von Visual Studio Code unter Windows
+  * [Installation von Visual Studio Code unter Windows](installation/vscode_win10.md)
 
 Bitte installieren Sie beides vor dem ersten Termin. Sollten dabei Probleme oder Unsicherheiten auftauchen, wenden Sie sich bitte gerne an uns (:inbox_tray: t.sick@hs-mannheim.de).
 
