@@ -42,11 +42,11 @@ Klicken Sie auf __Next__.
 
 In den Advanced Options wählen Sie folgendes aus:
 
-  * Install for all users
-  * Associate files with Python (requires py launcher)
-  * Create shortcuts for installed applications
-  * Add Python to environment variables
-  * Precompile standard library
+  * [X] Install for all users
+  * [X] Associate files with Python (requires py launcher)
+  * [X] Create shortcuts for installed applications
+  * [X] Add Python to environment variables
+  * [X] Precompile standard library
 
 Klicken Sie auf __Install__.
 
