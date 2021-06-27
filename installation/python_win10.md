@@ -4,7 +4,7 @@ Diese Anleitung zeigt Ihnen, wie Sie Python 3.9, inklusive `pip` und der Bibliot
 
 ## Download
 
-Gehen Sie auf die Webseite `https://python.org` und laden Sie die aktuelle Version von Python für Windows herunter.
+Gehen Sie auf die [Webseite](https://python.org) `https://python.org` und laden Sie die aktuelle Version von Python für Windows herunter.
 
 <img src="img/python_1.png" width="700">
 

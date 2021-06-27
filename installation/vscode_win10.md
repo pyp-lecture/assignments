@@ -4,7 +4,7 @@ Diese Anleitung zeigt Ihnen, wie Sie Visual Studio Code installieren können. Bi
 
 ## Download
 
-Laden Sie Visual Studio Code von der Webseite `https://code.visualstudio.com/` herunter. Klicken Sie auf __Download for Windows__ und speichern Sie das Installationsprogramm auf Ihrem Rechner.
+Laden Sie Visual Studio Code von der [Webseite](https://code.visualstudio.com) `https://code.visualstudio.com` herunter. Klicken Sie auf __Download for Windows__ und speichern Sie das Installationsprogramm auf Ihrem Rechner.
 
 <img src="img/vscode_1.png" width="700">
 <br>
@@ -28,6 +28,13 @@ Den Installationspfad und Startmenü-Ordner müssen Sie nicht anpassen. Klicken 
 <img src="img/vscode_7.png" width="500">
 
 Setzen Sie bei dem Dialog __Zusätzliche Aufgaben wählen__ alle Häckchen. Klicken Sie auf __Weiter__.
+
+  * [X] Desktop-Symbol erstellen
+  * [X] Aktion "Mit Code öffnen" dem Dateikontextmenü von Windows-Explorer hinzufügen
+  * [X] Aktion "Mit Code öffnen" dem Verzeichniskontextmenü von Windows-Explorer hinzufügen
+  * [X] Code als Editor für unterstützte Dateitypen registrieren
+  * [X] Zu PATH hinzufügen (nach Neustart verfügbar)
+
 
 <img src="img/vscode_8.png" width="500">
 
