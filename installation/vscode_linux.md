@@ -4,6 +4,8 @@ Diese Anleitung zeigt Ihnen, wie Sie Visual Studio Code installieren können. Bi
 
 ## VSCode installieren
 
+Visual Studio Code ist als Snap verfügbar und kann daher mit einigen wenigen Kommandos direkt über das Terminal installiert werden. Ein Download ist nicht notwendig.
+
 ```console
 $ sudo apt update
 $ sudo apt install -y snapd
