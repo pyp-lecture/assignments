@@ -9,7 +9,7 @@ Lesen Sie die Datei `company_sales_data.csv` ein und speichern Sie die Graphen a
 
 Abgabe: b8_a1.py, b8_a1_1.jpg b8_a1_2.jpg
 
-## Aufgabe 2: Calvin und Celcius
+## Aufgabe 2: Kelvin und Celsius
 Schreibe 3 Funktionen, die Temperaturen in verschiedenen Skalensysteme umwandeln.
 
 *Tipps zur Umrechnung:*
