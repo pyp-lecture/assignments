@@ -52,3 +52,5 @@ Link: https://colab.research.google.com/github/tensorflow/examples/blob/master/c
 
 ### :computer: Tensorflow
 Link: https://www.tensorflow.org
+
+https://www.youtube.com/watch?v=dj5oOPaeIqI

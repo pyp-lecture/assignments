@@ -27,8 +27,8 @@ Sie können die Aufgaben gerne als Gruppe von bis zu 4 Studierenden bearbeiten. 
 | KW 22, **02.06.2021** | [Dictionaries und Sets][5], [Strings][6]      | [Aufgabe 5][21], [Lösung][30]   |
 | KW 23, **09.06.2021** | [Module][7], [IO][8], [Klassen][9]            | [Aufgabe 6][22], [Lösung][31]   |
 | KW 24, **16.06.2021** | [Rekursion][10], [Ausnahmen][11], [Tests][12] | [Aufgabe 7][23], [Lösung][32]   |
-| KW 25, **23.06.2021** | [NumPy][13], [Lin. Algebra][14]               | [Aufgabe 8][24], Abgabe: 29.06.2021, 23:59 Uhr     |
-| KW 26, **30.06.2021** | [MatPlotLib][15]                              | Aufgabe 9, Abgabe:    |
+| KW 25, **23.06.2021** | [NumPy][13], [Lin. Algebra][14]               | [Aufgabe 8][24], [Lösung][33]     |
+| KW 26, **30.06.2021** | [MatPlotLib][15]                              |     |
 | KW 27, **07.07.2021** | Fragestunde                                   | Lernliste             |
 | KW 28, **16.07.2021** | Klausur (13:15 Uhr)                           | Viel Erfolg!! :star:  |
 
