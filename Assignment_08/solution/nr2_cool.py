@@ -12,7 +12,6 @@ def main():
 
 class Temp():
     def __init__(self, K=None, C=None, F=None):
-        self.K = None
         try:
             if K != None and not (F or C):
                 self.K = K
